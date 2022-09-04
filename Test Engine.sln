@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test Engine", "Test Engine\Test Engine.csproj", "{3DB150A4-8600-480E-B505-8C33917BA11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DB150A4-8600-480E-B505-8C33917BA11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB150A4-8600-480E-B505-8C33917BA11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB150A4-8600-480E-B505-8C33917BA11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB150A4-8600-480E-B505-8C33917BA11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A41C7FD5-0C28-4DE8-80ED-F305F0F4D2F1}
+	EndGlobalSection
+EndGlobal
